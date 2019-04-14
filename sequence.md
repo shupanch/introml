@@ -28,10 +28,8 @@ to documents that don't match the number of the unit.  We will fix these soon!
 
 * [Setting up python, jupyter and github](./Basics/setup.md)
     * [Set up a local machine](./Basics/setup.md)
-    * [Set up a virtual machine in Google Cloud Platform](./GCP/getting_started.md)
-    * [Set up a virtual machine in Google Cloud Platform with Docker](./GCP/docker.md)
+    * [Set up a CPU or GPU virtual machine in Google Cloud Platform](./GCP/getting_started.md)    
     * [Downloading the course material from github](./Basics/github.md)
-    * [Set up a GPU machine](./GCP/gpu_setup.md)  (Needed for Unit 10)
 * Introduction
     * Course Admin [[pdf]](./lectures/CourseAdmin.pdf) [[Powerpoint]](./lectures/CourseAdmin.pptx)
 * Unit 1:  What is machine learning? 
@@ -61,7 +59,7 @@ to documents that don't match the number of the unit.  We will fix these soon!
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
      [[Powerpoint]](./lectures/Lect05_Lasso.pptx)         
     * [Demo:  Finding predictors of prostate cancer](./unit05_lasso/demo_prostate.ipynb) 
-    * [Lab: Student performance prediction](./unit05_lasso/lab_student-performance.ipynb) 
+    * [Lab: EEG source localization](./unit05_lasso/lab_eeg_partial.ipynb) 
     * Problems [[pdf]](./unit05_lasso/prob/prob_lasso.pdf) [[Latex]](./unit05_lasso/prob/prob_lasso.tex)
 * [Unit 6:  Logistic regression](./unit06_logistic/readme.md)
     * Lecture:  Linear classification and logistic regression
@@ -77,7 +75,7 @@ to documents that don't match the number of the unit.  We will fix these soon!
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)         
     * [Demo 1:  Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * [Demo 2:  Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * [Lab: Audio pitch detection](./unit07_optim/lab_audio_partial.ipynb)
+    * [Lab: Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
     * Problems [[pdf]](./unit07_optim/prob/prob_optim.pdf)
     [[Latex]](./unit07_optim/prob/prob_optim.tex)
 * [Unit 8:  Support vector machines](./unit08_svm/readme.md)
